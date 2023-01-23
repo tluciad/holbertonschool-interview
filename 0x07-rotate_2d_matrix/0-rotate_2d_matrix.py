@@ -19,4 +19,3 @@ def rotate_2d_matrix(matrix):
             matrix[start][current] = matrix[j][start]
             """right to top"""
             matrix[j][start] = temp
-            
